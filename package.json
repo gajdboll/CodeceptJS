@@ -1,0 +1,24 @@
+{
+  "name": "PuppeterExamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajdboll/CodeceptJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajdboll/CodeceptJS/issues"
+  },
+  "homepage": "https://github.com/gajdboll/CodeceptJS#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.0.7",
+    "puppeteer": "^9.1.1"
+  }
+}
